@@ -5,11 +5,11 @@
 
 ### Installation
 
-````
 1. Install NPM packages
-```sh
-npm install
-````
+
+   ```sh
+   npm install
+   ```
 
 1. Rename or copy the `.env.dev` file to `.env`
 1. Set your database credentials in your `.env` file
